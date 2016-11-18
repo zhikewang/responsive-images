@@ -4,6 +4,20 @@
     margin: 0 auto;
 }
 
+.footer{
+	clear: left;
+	float: left;
+}
+
+.footer li{
+		list-style: circle;
+	
+		font-size: 15px;
+		width: 30%;
+	    float: left;
+		
+	
+	}
 
 
 @media screen and (max-width:700px){
@@ -73,6 +87,7 @@
 	list-style-type:none;
 	border:1px bold;
 	text-align:center;
+	
 }
  
 	.wrapper li img{
@@ -128,6 +143,7 @@
 	list-style-type:none;
 	border:1px bold;
 	text-align:center;
+	
 }
  
 	.wrapper li img{
